@@ -11,11 +11,13 @@ onde a caminho de 3 anos desenvolvo _**appwebs**_ em tecnologias _**front-end**_
 
 ## repositórios públicos
 
-* _**[PHP](https://github.com/ricardomassungui/curso-php)**_
+* _**[PHP](https://github.com/ricardomassungui/curso-php)**_ ![PHP](logotipo-php.png)
 * _**[JavaScript](https://github.com/ricardomassungui/curso-javascript)**_
 * _**[Algoritmos](https://github.com/ricardomassungui/curso-de-algoritmos)**_
 * _**[Projecto-android](https://ricardomassungui.github.io/projecto-android/android)**_
 
-### **Para mais informações ao meu respeito acesse o link abaixo:**
+***
+
+**Para mais informações ao meu respeito acesse o link abaixo:**
 
 _**[ricardomassungui.github.io](https://ricardomassungui.github.io/site-pessoal/perfil/pg-main.html).**_
