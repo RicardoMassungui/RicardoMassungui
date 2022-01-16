@@ -1,5 +1,5 @@
 
-# 🤓Portal_Ricardo💻
+# 🤓Portal💻
 
 ***
 
@@ -11,7 +11,7 @@ onde a caminho de 3 anos desenvolvo _**appwebs**_ em tecnologias _**front-end**_
 
 ## repositórios públicos
 
-* _**[PHP](https://github.com/ricardomassungui/curso-php)**_ ![PHP](logotipo-php.png)
+* _**[PHP](https://github.com/ricardomassungui/curso-php)**_ ![PHP]()
 * _**[JavaScript](https://github.com/ricardomassungui/curso-javascript)**_
 * _**[Algoritmos](https://github.com/ricardomassungui/curso-de-algoritmos)**_
 * _**[Projecto-android](https://ricardomassungui.github.io/projecto-android/android)**_
