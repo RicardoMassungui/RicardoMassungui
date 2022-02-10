@@ -38,6 +38,7 @@ _**[ricardomassungui.github.io](https://ricardomassungui.github.io/site-pessoal/
 
 ![Gimp)](https://user-images.githubusercontent.com/93468978/153359659-4129122e-a078-43c6-bd31-82dd2b40a7b0.jpg)
 ![shortcut](https://user-images.githubusercontent.com/93468978/153359728-7b436ca0-d3b3-48b1-b5d1-ddf0fd7dcd83.png)
+![filmora](https://user-images.githubusercontent.com/93468978/153362155-bb0c5919-e53e-4abd-b348-1a420725f8f3.png)
 
 
 
