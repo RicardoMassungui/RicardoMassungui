@@ -8,6 +8,9 @@
 _**Ricardo Massungui**_ é o meu nome sou **estudante médio** de **técnica de informática**
 onde a caminho de 3 anos desenvolvo _**appwebs**_ em tecnologias _**front-end**_ como _**html5, css3, javascript**_ e _**back-end**_ tais com _**mysql, php, node.js, java, e C**_ e as suas mais populares bibliotecas ou tecnologias que usam os mesmos como base e núcleo, tudo isso com o intuíto de me especializar na área afim de resolver os diversas problemas registrados no dia-á-dia pelo o usuário, de modo a solucioná-las digitalmente através de softwares competentes de maneira segura, confiável e acima de tudo agradavél aos olhos dos mesmos.
 
+**mais sobre me, acesse o meu site pessoal:**
+_**[ricardomassungui.github.io](https://ricardomassungui.github.io/site-pessoal/perfil/pg-main.html).**_
+
 ## repositórios públicos:
 
 * _**[PHP](https://github.com/ricardomassungui/curso-php)**_ 
@@ -17,13 +20,14 @@ onde a caminho de 3 anos desenvolvo _**appwebs**_ em tecnologias _**front-end**_
 * _**[Projeto-cordel](https://ricardomassungui.github.io/projeto-cordel/dados/)**_
 ***
 
-**site pessoal, link abaixo:**
+_**Tecnologias**_
 
-_**[ricardomassungui.github.io](https://ricardomassungui.github.io/site-pessoal/perfil/pg-main.html).**_
-
-**Tecnologias Web**
-
+![tecnologias-web](https://user-images.githubusercontent.com/93468978/153352044-676f90d7-409a-4f4d-bdc4-ae96539af092.png)
+![bootstrap](https://user-images.githubusercontent.com/93468978/153353301-8d12c280-a371-4e9c-b83f-9b4f92092c86.png)
+)
+![ricardo-massungui]()
+![ricardo-massungui]()
+![ricardo-massungui]()
 ***
 
-![tecnologias-web](![images (60)](https://user-images.githubusercontent.com/93468978/153350856-8c419219-3577-47ee-a98c-2deebdefbcb1.png)
 
