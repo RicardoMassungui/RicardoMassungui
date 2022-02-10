@@ -40,6 +40,19 @@ _**[ricardomassungui.github.io](https://ricardomassungui.github.io/site-pessoal/
 ![shortcut](https://user-images.githubusercontent.com/93468978/153359728-7b436ca0-d3b3-48b1-b5d1-ddf0fd7dcd83.png)
 ![filmora](https://user-images.githubusercontent.com/93468978/153362155-bb0c5919-e53e-4abd-b348-1a420725f8f3.png)
 
-
-
 ***
+
+*_**Redes Sociais**_
+
+[![facebook](https://user-images.githubusercontent.com/93468978/153364151-5b47aa6c-c4ba-4e57-9224-0d8592bb18b6.png)
+](https://free.facebook.com/richard.johnmassungui?ref_component=mfreebasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=7)
+[![linkedin](https://user-images.githubusercontent.com/93468978/153364387-557d8109-b55c-4b9e-9394-7f45d3bb605d.png)
+](https://www.linkedin.com/in/ricardo-massungui-917418228/)
+[![twitter-t-1](https://user-images.githubusercontent.com/93468978/153364530-28328b79-8d27-426e-9a63-f1e2c926d3d9.png)
+](https://twitter.com/RicardoMassung)
+[![logo-youtube](https://user-images.githubusercontent.com/93468978/153364591-562ebe20-8094-49a0-a39d-1a1084ea8654.png)
+](https://www.youtube.com/channel/UCF4Jkk4bCPjKiQ2HUagpLeA/)
+[![logo-instagram](https://user-images.githubusercontent.com/93468978/153364681-5fc6dd3c-aec9-4f2a-8634-e2f4c266931c.png)
+](https://www.instagram.com/ricardomassungui/)
+[![logo-telegram](https://user-images.githubusercontent.com/93468978/153364751-3a8e64fb-4ed4-41b6-bef4-2348c7ab31ac.png)
+](https://t.me/ricardomassungui/)
