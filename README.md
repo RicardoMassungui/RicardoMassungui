@@ -27,6 +27,9 @@ _**[ricardomassungui.github.io](https://ricardomassungui.github.io/site-pessoal/
 ![jquery](https://user-images.githubusercontent.com/93468978/153355240-3f2f9bc5-ab3e-430e-9205-04d3693fa496.png)
 ![node](https://user-images.githubusercontent.com/93468978/153354427-36b009d2-dd3f-45b7-b153-abe8873d8ca7.png)
 ![react-native](https://user-images.githubusercontent.com/93468978/153355568-ce220cb1-b600-473f-a76d-a70bb96c13f2.png)
+![java](https://user-images.githubusercontent.com/93468978/153355868-84e549a2-1c1b-461c-990f-af607ec23f8d.png)
+![linguagemC)](https://user-images.githubusercontent.com/93468978/153355932-af848584-9363-4e2f-85b8-273e6d819a28.png)
+![linguagemC++](https://user-images.githubusercontent.com/93468978/153356078-9feb77a0-eb7c-4568-bc62-80d0e60e2165.png)
 
 ***
 
