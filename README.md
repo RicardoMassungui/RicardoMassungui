@@ -24,10 +24,9 @@ _**Tecnologias**_
 
 ![tecnologias-web](https://user-images.githubusercontent.com/93468978/153352044-676f90d7-409a-4f4d-bdc4-ae96539af092.png)
 ![bootstrap](https://user-images.githubusercontent.com/93468978/153353301-8d12c280-a371-4e9c-b83f-9b4f92092c86.png)
-)
-![ricardo-massungui]()
-![ricardo-massungui]()
-![ricardo-massungui]()
+![jquery](https://user-images.githubusercontent.com/93468978/153355240-3f2f9bc5-ab3e-430e-9205-04d3693fa496.png)
+![node](https://user-images.githubusercontent.com/93468978/153354427-36b009d2-dd3f-45b7-b153-abe8873d8ca7.png)
+
 ***
 
 
