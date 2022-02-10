@@ -14,8 +14,8 @@ onde a caminho de 3 anos desenvolvo _**appwebs**_ em tecnologias _**front-end**_
 * _**[PHP](https://github.com/ricardomassungui/curso-php)**_ 
 * _**[JavaScript](https://github.com/ricardomassungui/curso-javascript)**_
 * _**[Algoritmos](https://github.com/ricardomassungui/curso-de-algoritmos)**_
-* _**[Projecto-android](https://ricardomassungui.github.io/projecto-android/android)**_
-
+* _**[Projeto-android](https://ricardomassungui.github.io/projecto-android/android)**_
+*_**[Projeto-cordel](https://ricardomassungui.github.io/projeto-cordel/dados/)**_
 ***
 
 **Para mais informações ao meu respeito acesse o link abaixo:**
