@@ -21,7 +21,9 @@ onde a caminho de 3 anos desenvolvo _**appwebs**_ em tecnologias _**front-end**_
 
 _**[ricardomassungui.github.io](https://ricardomassungui.github.io/site-pessoal/perfil/pg-main.html).**_
 
+**Tecnologias Web**
 
+***
 
 ![tecnologias-web](![images (60)](https://user-images.githubusercontent.com/93468978/153350856-8c419219-3577-47ee-a98c-2deebdefbcb1.png)
-)
+
