@@ -8,7 +8,7 @@
 _**Ricardo Massungui**_ é o meu nome sou **estudante médio** de **técnica de informática**
 onde a caminho de 3 anos desenvolvo _**appwebs**_ em tecnologias _**front-end**_ como _**html5, css3, javascript**_ e _**back-end**_ tais com _**mysql, php, node.js, java, e C**_ e as suas mais populares bibliotecas ou tecnologias que usam os mesmos como base e núcleo, tudo isso com o intuíto de me especializar na área afim de resolver os diversas problemas registrados no dia-á-dia pelo o usuário, de modo a solucioná-las digitalmente através de softwares competentes de maneira segura, confiável e acima de tudo agradavél aos olhos dos mesmos.
 
-**mais sobre me, acesse o meu site pessoal:**
+###### mais informações sobre me, acesse o meu site pessoal:
 _**[ricardomassungui.github.io](https://ricardomassungui.github.io/site-pessoal/perfil/pg-main.html).**_
 
 ## repositórios públicos:
@@ -42,7 +42,7 @@ _**[ricardomassungui.github.io](https://ricardomassungui.github.io/site-pessoal/
 
 ***
 
-*_**Redes Sociais**_
+* _**Redes Sociais**_
 
 [![facebook](https://user-images.githubusercontent.com/93468978/153364151-5b47aa6c-c4ba-4e57-9224-0d8592bb18b6.png)
 ](https://free.facebook.com/richard.johnmassungui?ref_component=mfreebasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=7)
@@ -56,3 +56,5 @@ _**[ricardomassungui.github.io](https://ricardomassungui.github.io/site-pessoal/
 ](https://www.instagram.com/ricardomassungui/)
 [![logo-telegram](https://user-images.githubusercontent.com/93468978/153364751-3a8e64fb-4ed4-41b6-bef4-2348c7ab31ac.png)
 ](https://t.me/ricardomassungui/)
+[![logo-tiktok](https://user-images.githubusercontent.com/93468978/153365402-b086f859-eff7-49c9-9fa4-89d97cd7e619.png)
+](https://www.tiktok.com/@ricardomassungui?/)
