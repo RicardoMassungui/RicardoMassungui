@@ -15,7 +15,7 @@ _**🤓[ricardomassungui.github.io](https://ricardomassungui.github.io/site-pess
 
 * _**[PHP](https://github.com/ricardomassungui/curso-php)**_ 
 * _**[JavaScript](https://github.com/ricardomassungui/curso-javascript)**_
-* * _**[MYSQL](https://github.com/ricardomassungui/Curso-Mysql)**_
+* _**[MYSQL](https://github.com/ricardomassungui/Curso-Mysql)**_
 * _**[Algoritmos](https://github.com/ricardomassungui/curso-de-algoritmos)**_
 * _**[Projeto-android](https://ricardomassungui.github.io/projecto-android/android)**_
 * _**[Projeto-cordel](https://ricardomassungui.github.io/projeto-cordel/dados/)**_
